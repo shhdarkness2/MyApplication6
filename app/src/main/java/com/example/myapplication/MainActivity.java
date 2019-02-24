@@ -25,7 +25,9 @@ public class MainActivity extends AppCompatActivity {
         getContactList();
     }
 
+public void test2(){
 
+}
 
 
 
